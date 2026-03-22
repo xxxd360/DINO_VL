@@ -31,5 +31,4 @@ result2与Prompt Ensembling_result.txt对应的是Train3做的多提示集成结
 ## DINO原理学习
 # 师生网络 + 对比学习 + 动量更新  
 DINO 抛弃负样本，仅通过师生网络的蒸馏，让模型学会对同一图像的不同视角输出一致的特征，同时对不同图像输出差异化特征  
-与YOLO不同的是DINO是自监督预训练框架  
-![DINO结构](https://github.com/xxxd360/DINO_VL_USE/blob/main/exported_image.png)
+与YOLO不同的是DINO是自监督预训练框架
