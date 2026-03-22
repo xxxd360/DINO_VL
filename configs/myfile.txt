@@ -1,0 +1,18 @@
+my_unseen_list1 = [
+'bench',
+'bicycle',
+'bus',
+'cow',
+'frisbee',
+'handbag',
+'hot dog',
+'keyboard',
+'microwave',
+'oven',
+'suitcase',
+'toaster',
+'traffic light',
+'train',
+'umbrella',
+]
+

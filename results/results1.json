@@ -1,0 +1,87 @@
+[
+  {
+    "image": "frame100_ac41f418.jpg",
+    "detections": 1,
+    "labels": [
+      "cup"
+    ],
+    "scores": "tensor([0.5831])"
+  },
+  {
+    "image": "frame105_33f70b02.jpg",
+    "detections": 1,
+    "labels": [
+      "cup"
+    ],
+    "scores": "tensor([0.5104])"
+  },
+  {
+    "image": "frame10_fb614c0d.jpg",
+    "detections": 3,
+    "labels": [
+      "cup",
+      "gloves",
+      "earphones"
+    ],
+    "scores": "tensor([0.6406, 0.3724, 0.3693])"
+  },
+  {
+    "image": "frame15_cf113dd4.jpg",
+    "detections": 2,
+    "labels": [
+      "cup",
+      "earphones"
+    ],
+    "scores": "tensor([0.6270, 0.4741])"
+  },
+  {
+    "image": "frame20_65c2f733.jpg",
+    "detections": 2,
+    "labels": [
+      "cup",
+      "earphones"
+    ],
+    "scores": "tensor([0.7193, 0.4539])"
+  },
+  {
+    "image": "frame55_433362ab.jpg",
+    "detections": 1,
+    "labels": [
+      "cup"
+    ],
+    "scores": "tensor([0.5372])"
+  },
+  {
+    "image": "frame5_aa9332b4.jpg",
+    "detections": 2,
+    "labels": [
+      "cup",
+      "earphones"
+    ],
+    "scores": "tensor([0.5965, 0.4017])"
+  },
+  {
+    "image": "frame85_41b111a8.jpg",
+    "detections": 1,
+    "labels": [
+      "cup"
+    ],
+    "scores": "tensor([0.6486])"
+  },
+  {
+    "image": "frame90_373d01a2.jpg",
+    "detections": 1,
+    "labels": [
+      "cup"
+    ],
+    "scores": "tensor([0.6813])"
+  },
+  {
+    "image": "frame95_9bac5405.jpg",
+    "detections": 1,
+    "labels": [
+      "cup"
+    ],
+    "scores": "tensor([0.6294])"
+  }
+]
