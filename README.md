@@ -1,10 +1,10 @@
-DINO
+### DINO
 ## 项目结构  
-├─assert ----图片资源  
-├─config ----配置文件  
-├─result ----运行结果  
-├─models ----模型权重  
-├─scripts ----辅助脚本
+├─assert ----图片资源   
+├─config ----配置文件   
+├─result ----运行结果   
+├─models ----模型权重    
+├─scripts ----辅助脚本  
 ## 依赖安装  
 COCO数据集下载位置 ：https://app.roboflow.com/ds/qHK8Q42lc8?key=27IHm68o5o  
 DINO预训练权重下载位置  ：https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
